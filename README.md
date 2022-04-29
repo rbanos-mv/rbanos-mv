@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Roberto A. Baños! 👋
+
+<p><em>Remote Full-stack web developer student @ Microverse.org, ready for adventure</em></p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)](https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)
+[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)
+<!--
+[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
+-->
+
 
 <!--
 **rbanos-mv/rbanos-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

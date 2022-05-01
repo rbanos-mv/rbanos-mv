@@ -27,7 +27,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=flat&logo=nx&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 
@@ -55,9 +55,9 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
 

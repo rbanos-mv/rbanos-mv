@@ -1,6 +1,6 @@
 ### Hi I'm Roberto A. Baños! 👋
 
-<p><em>Remote Full-stack web developer student @ Microverse.org, ready for adventure</em></p>
+<p><em>Remote Collaborative Full-stack web developer student @ Microverse.org, ready for adventure</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)](https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)&nbsp;[![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 

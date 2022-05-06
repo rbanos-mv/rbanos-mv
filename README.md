@@ -8,7 +8,7 @@ _Remote Collaborative Full-stack software developer student @ Microverse, ready 
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 -->
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & tools
 
 ### Markup languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -67,7 +67,7 @@ _Remote Collaborative Full-stack software developer student @ Microverse, ready 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 
-## Coding Statistics
+## Coding statistics
 
 [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 

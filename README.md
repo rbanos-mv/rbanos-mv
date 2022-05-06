@@ -1,6 +1,6 @@
 ### Hi I'm Roberto A. Baños! 👋
 
-_Remote Collaborative Full-stack web developer student @ Microverse, ready for adventure_ [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
+_Remote Collaborative Full-stack web developer student @ Microverse, ready for adventure_
 
 [![Gmail](https://img.shields.io/badge/-roberto.banos.mv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://roberto.banos.mv@gmail.com)](mailto://roberto.banos.mv@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)](https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)&nbsp;
 
@@ -68,6 +68,9 @@ _Remote Collaborative Full-stack web developer student @ Microverse, ready for a
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 
 ## Coding Statistics
+
+[![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
+
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)

@@ -76,12 +76,14 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 
 [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 
+### Weekly
 <div>
 <img src="https://wakatime.com/share/@rbanos/a49b630d-3931-41b0-bb0a-7576174bc9e7.svg" width="495px" />&nbsp;&nbsp;
 <img src="https://wakatime.com/share/@rbanos/df7004f7-c44c-430e-b413-35cde7edc51e.svg" width="495px" />
 </div>
 
-<div style="display: flex; align-items: flex-start">
+### GitHub
+<div>
   
 [![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv&layout=compact)](https://github.com/rbanos-mv/github-readme-stats)

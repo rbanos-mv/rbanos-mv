@@ -1,4 +1,4 @@
-### Hi I'm Roberto A. Baños! 👋
+### Hi I'm Roberto A. Baños! 👋 <img src="https://badges.pufler.dev/visits/rbanos-mv/rbanos-mv?color=3f37c9">
 
 _Full-stack software developer student @ Microverse, ready for adventure_
 
@@ -7,7 +7,6 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 <!--
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 -->
-  <img src="https://badges.pufler.dev/visits/rbanos-mv/rbanos-mv?color=3f37c9">
 
 
 ## Certificates & Licenses
@@ -79,12 +78,25 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 
 <div style="display: flex; align-items: flex-start">
   
+[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv&layout=compact)](https://github.com/rbanos-mv/github-readme-stats)
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
 
 </div>
 
-[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
+<!--
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
+</div>
+
+<h2>Weekly Coding Stats</h2>
+
+
+[![manel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 
 <!--

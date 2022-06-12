@@ -7,6 +7,12 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 <!--
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 -->
+  <img src="https://badges.pufler.dev/visits/rbanos-mv/rbanos-mv?color=3f37c9">
+
+
+## Certificates & Licenses
+<a href="https://www.credential.net/18e91d6a-98c7-4440-84e0-b6cd5c921765" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
+<a href="https://www.credential.net/81d518b7-755a-4406-ac51-494166219b00" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
 
 ## 🔧 Technologies & tools
 
@@ -71,13 +77,15 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 
 [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 
+<div style="display: flex; align-items: flex-start">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv&layout=compact)](https://github.com/rbanos-mv/github-readme-stats)
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
+</div>
 
-<!-- 
 [![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
--->
+
 
 <!--
 **rbanos-mv/rbanos-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

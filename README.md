@@ -2,7 +2,10 @@
 
 _Full-stack software developer student @ Microverse, ready for adventure_
 
-[![Gmail](https://img.shields.io/badge/-roberto.banos.mv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://roberto.banos.mv@gmail.com)](mailto://roberto.banos.mv@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-banos-alvarez/)](https://www.linkedin.com/in/roberto-a-banos-alvarez/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)&nbsp;
+[![Gmail](https://img.shields.io/badge/-roberto.banos.mv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://roberto.banos.mv@gmail.com)](mailto://roberto.banos.mv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-banos-alvarez/)](https://www.linkedin.com/in/roberto-a-banos-alvarez/)
+[![AngelList](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-D4D4D4?style=flat-square&logo=AngelList&logoColor=black&link=https://angel.co/u/roberto-a-banos-alvarez)](https://angel.co/u/roberto-a-banos-alvarez)
+[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)&nbsp;
 
 <!--
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)

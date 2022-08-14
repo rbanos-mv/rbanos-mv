@@ -94,7 +94,7 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 
 ### GitHub
 <div>
-  
+
 [![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv&layout=compact)](https://github.com/rbanos-mv/github-readme-stats)
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)

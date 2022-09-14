@@ -13,6 +13,8 @@ _Full-stack software developer student @ Microverse, ready for adventure_
 
 
 ## Certificates & Licenses
+<a href="https://www.credential.net/a529cdb0-a5c1-49ca-a948-7c4604dd488f" target= "blank"><img 
+src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
 <a href="https://www.credential.net/c41c2a65-5abd-4ab4-93b0-9d6bdabfe4f8" target= "blank"><img 
 src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
 <a href="https://www.credential.net/deedcc82-1863-421e-a302-e97f49f5662d" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>

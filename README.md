@@ -1,6 +1,6 @@
 ### Hi I'm Roberto A. Baños! 👋
 
-_Full-stack software developer student @ Microverse, ready for adventure_
+_Full-stack software developer @ Developers.Net, ready for adventure_
 
 [![Gmail](https://img.shields.io/badge/-roberto.banos.mv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto://roberto.banos.mv@gmail.com)](mailto://roberto.banos.mv@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-banos-alvarez/)](https://www.linkedin.com/in/roberto-a-banos-alvarez/)
